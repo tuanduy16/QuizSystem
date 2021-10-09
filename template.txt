@@ -1,0 +1,6 @@
+(Question1)|(Answer1)|(Answer2)|(Answer3)|(Answer4)|T/F|T/F|T/F|T/F
+(Question2)|(Answer1)|(Answer2)|(Answer3)|(Answer4)|T/F|T/F|T/F|T/F 
+(Question3)|(Answer1)|(Answer2)|(Answer3)|(Answer4)|T/F|T/F|T/F|T/F
+(Question4)|(Answer1)|(Answer2)|(Answer3)|(Answer4)|T/F|T/F|T/F|T/F
+
+T/F = True/False
